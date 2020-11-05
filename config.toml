@@ -3,7 +3,7 @@
 baseurl = ""  # Include trailing slash
 title = "Clarity"
 author = "Jane Doe"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2020, Dev-proInformatique."
 # canonifyurls = true
 paginate = 10
 theme = "clarity"
