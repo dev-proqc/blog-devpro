@@ -3,10 +3,11 @@
 baseurl = ""  # Include trailing slash
 title = "Clarity"
 author = "Jane Doe"
-copyright = "Copyright © 2020, Dev-proInformatique."
+copyright = "Copyright © 2020, Dev-Pro Informatique."
 # canonifyurls = true
 paginate = 10
 theme = "clarity"
+min_version = "0.63.0"
 
 disqusShortname = ""
 
